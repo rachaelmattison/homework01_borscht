@@ -1,6 +1,6 @@
 .header {
 	font-family: 'Baloo Bhai', cursive;
-	position: relative;
+  position: sticky;
 	margin-left: 300px;
 	font-size: 100px;
 }
@@ -19,3 +19,76 @@
 	position: relative;
 	font-size: 50px;
 }
+
+.b12header {
+	font-family: 'Archivo Black', sans-serif;
+	position: sticky;
+	font-size: 100px;
+	margin-left: 870px;
+}
+
+
+
+.its {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 49px;
+	margin-left: 200px;
+}
+
+.perfect {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 200px;
+}
+
+.ifyou {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 38px;
+	margin-left: 580px;
+}
+
+.exactly {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 380px;
+}
+
+
+.like {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 70px;
+	margin-left: 
+}
+
+
+.this {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 55px;
+	margin-left: 400px;
+}
+
+.ingredients12 {
+	font-family: 'Archivo Black', sans-serif;
+	padding: 50px;
+	margin-left: 300px;
+	line-height: 25px;
+}
+
+
+
+.steps12 {
+	font-family: 'Archivo Black', sans-serif;
+	margin-left: 600px;
+	line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
