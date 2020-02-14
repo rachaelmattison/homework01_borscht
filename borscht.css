@@ -188,3 +188,25 @@ line-height: 50px;
 }
 
 
+.h18 {
+		font-family: 'Chivo', sans-serif;
+		font-size: 200px;
+		width: 80px;
+		position: sticky;
+		margin-left: 500px;
+		line-height: 300px;
+}
+
+.ing18 {
+	font-family: 'Chivo', sans-serif;
+	font-size: 70px;
+	margin-left: 900px;
+}
+
+.steps18 {
+	font-family: 'Chivo', sans-serif;
+	font-size: 70px;
+	float: left;
+	margin-right: 900px;
+	}
+
