@@ -210,3 +210,35 @@ line-height: 50px;
 	margin-right: 900px;
 	}
 
+.header19 {
+	font-family: 'Monoton', cursive;
+	font-size: 180px;
+	float: left;
+	letter-spacing: 19px;
+}
+
+.whatsgood {
+	font-family: 'Monoton', cursive;
+	font-size: 120px;
+	kerning: 30px;
+	letter-spacing: 30px; 
+}
+
+.ingredients19 {
+	font-family: 'Alata', sans-serif;
+	font-size: 30px;
+	clear: 40px;
+}
+
+
+.header20 {
+	font-family: 'VT323', monospace;
+	font-size: 70px;
+
+}
+
+.fin {
+	font-size: 500px;
+	font-family: 'VT323', monospace;
+	
+}
