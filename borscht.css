@@ -81,14 +81,33 @@
 }
 
 
+.borscht13header {
+	font-family: 'Baloo', cursive;
+	padding: 400px;
+}
 
+.h13ifyou {
+	font-family: 'Baloo', cursive;
+	font-size: 28px;
 
+}
 
+.h13itsfire {
+	font-family: 'Baloo', cursive;
+	margin-left: 680px;
+	position: sticky;
+}
 
+.ing13 {
+	font-family: 'Josefin Slab', serif;
+	margin-left: 890px;
+	line-height: 30px;
+}
 
-
-
-
-
+.steps13 {
+	font-family: 'Josefin Slab', serif;
+	position: relative;
+	line-height: 40px;
+}
 
 
