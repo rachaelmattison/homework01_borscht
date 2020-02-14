@@ -110,4 +110,41 @@
 	line-height: 40px;
 }
 
+.h15{
+	font-family: 'Paytone One', sans-serif;
+	font-size: 25px;
+}
+
+.areyou {
+	font-family: 'Vidaloka', serif;
+	font-size: 35px;
+	margin-left: 780px;
+}
+
+.better {
+	font-family: 'Coda Caption', sans-serif;
+	font-size: 50px;
+}
+
+.makesure {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	margin-right: 380px;
+	font-size: 15px;
+}
+
+.youhave {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	padding: 50px;
+	margin-left: 380px;
+	font-size: 15px;
+}
+
+.steps15 {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	margin-left: 1300px;
+	position: absolute;
+	font-size: 25px;
+}
+
+
 
