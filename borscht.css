@@ -1,0 +1,21 @@
+.header {
+	font-family: 'Baloo Bhai', cursive;
+	position: relative;
+	margin-left: 300px;
+	font-size: 100px;
+}
+
+.ingredients {
+	font-family: 'Chivo', sans-serif;
+	position: relative;
+	font-size: 50px;
+	text-transform: full-width;
+	line-height: 2.5;
+}
+
+
+.steps {
+	font-family: 'Chivo', sans-serif;
+	position: relative;
+	font-size: 50px;
+}
