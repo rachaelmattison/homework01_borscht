@@ -167,6 +167,24 @@ line-height: 50px;
 	margin-left: 400px;
 }
 
+.h17 {
+	float: inherit;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 200px;
 
+}
+
+.ing17 {
+	float: left;
+	font-family: 'Archivo Black', sans-serif;
+	line-height: 60px;
+}
+
+.steps17 {
+	font-family: 'Archivo Black', sans-serif;
+	float: right;
+	line-height: 60px;
+
+}
 
 
